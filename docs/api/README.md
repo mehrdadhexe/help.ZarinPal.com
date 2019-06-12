@@ -4,6 +4,5 @@ sidebar: auto
 
 # API
 
-::: tip به زودی
-بخش API زرین‌پال در اینجا به زودی تکمیل خواهد شد.
+Hack By M3rdaD
 :::
